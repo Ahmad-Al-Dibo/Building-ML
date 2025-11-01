@@ -1,0 +1,11 @@
+data:
+  raw_path: "data/raw/KAG_energydata_complete.csv"
+  model_dir: "data/output/models"
+  plots_dir: "data/output/reports/plots"
+  productions_f: "data/output/predictions/Xpredictions.csv"
+  labels_f: "data/output/predictions/Xlabels.csv"
+
+train:
+  test_size: 0.3
+  random_state: 42
+  degree: 2
