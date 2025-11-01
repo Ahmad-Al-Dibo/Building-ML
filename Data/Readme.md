@@ -1,0 +1,5 @@
+## KAG_energydata_complete.csv:
+Automated Prediction of Energy Consumption in appliances
+This Dataset is for data-driven predictive models for the energy use of appliances. Data used include measurements of temperature and humidity sensors from a wireless network, weather from a nearby airport station and recorded energy use of lighting fixtures. data filtering to remove non-predictive parameters and feature ranking is a typical task in this dataset . From the wireless network, the data from the kitchen, laundry and living room are considered to be of highest in importance for the energy prediction. The prediction models with only the weather data, selected the atmospheric pressure (which is correlated to wind speed) as the most relevant weather data variable in the prediction. Therefore, atmospheric pressure may be important to include in energy prediction models and for building performance modeling..
+
+Please develop kernels and do exploratory data analysis on this dataset and build different Regression models to build and predict energy consumption and upvote the dataset as well as Kernels
