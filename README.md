@@ -257,7 +257,7 @@ python -m src.reports.make_report
 
 > Ahmad Al Dibo — Data Engineer & Researcher
 
-📧 Contact: [ahmad.aldibo@proton.me](mailto:ahmad.aldibo@proton.me)
+📧 Contact: [ahmadaldibo212009@gmail.com](mailto:ahmadaldibo212009@gmail.com)
 
 ---
 
