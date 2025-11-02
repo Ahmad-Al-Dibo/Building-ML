@@ -19,7 +19,7 @@ De pipeline bevat een volledige **machine-learning workflow**:
 ## 🧠 Kerncomponenten
 
 ### 1️⃣ Data Preprocessing
-Het bestand [`process_data.py`](src/process_data.py) verzorgt het volledige schoonmaakproces:
+Het bestand [`process_data.py`](src/data/process_data.py) verzorgt het volledige schoonmaakproces:
 
 - Detecteert **uitbijters** met de *IQR-methode*  
 - Analyseert **scheefheid (skewness)** en past *PowerTransformer* toe  
