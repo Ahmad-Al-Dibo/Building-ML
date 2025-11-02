@@ -47,7 +47,7 @@ Retourneert een dictionary:
 
 ### 2️⃣ Modeltraining en evaluatie
 
-Het bestand [`train_models.py`](src/models/strain_models.py) bevat:
+Het bestand [`train_models.py`](src/models/train_models.py) bevat:
 
 * Training van meerdere regressiemodellen:
 
